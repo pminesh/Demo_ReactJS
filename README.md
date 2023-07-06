@@ -1,5 +1,5 @@
-# Demo_ReactJS
-I have learn ReactJS and integrated some features with project structure.
+# Demo ReactJS
+I have learn ReactJS and integrated some features with good project structure.
 
 # Features
 1. HOC (higher order components)
